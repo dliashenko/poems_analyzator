@@ -9,10 +9,15 @@ I have not found any works related to this theme, so I decided to set yp basic a
 PEP8
  
 ## Screenshots
-
+Web-interface is created for the sake of convenience
+![alt text](https://github.com/dliashenko/Crawler/blob/main/interface.png?raw=true)
 
 ## Libraries and frameworks used
-PyMorphy2, Scrapy, pandas
+- [Pandas](https://pandas.pydata.org)
+- [PyMorphy2](https://pymorphy2.readthedocs.io/en/stable/)
+- [Scrapy](https://scrapy.org)
+- [Sqlite3](https://www.sqlite.org/index.html)
+
 
 ## Features
 - poem_marking with meter and feet_number
