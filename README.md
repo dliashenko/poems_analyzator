@@ -3,7 +3,7 @@
 Program to mark up ukrainian poems with meter and feet_number
 
 ## Motivation
-I have not found any works related to this theme, so I decided to set yp basic algoritm on my own. 
+I have not found any works related to this theme, so I decided to set up basic algoritm on my own. 
 
 ## Code style
 PEP8
